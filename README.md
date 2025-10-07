@@ -1,4 +1,4 @@
-# 🪀 Coronary Artery Stenosis Analysis: Integrated Segmentation and Grading
+# 🫀 Coronary Artery Stenosis Analysis: Integrated Segmentation and Grading
 
 ### 🚀 Project Overview
 
