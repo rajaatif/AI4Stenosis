@@ -74,7 +74,7 @@ but you can also download them manually:
 | Model                                   | File Name                            | Google Drive Link                                                                                   |
 | --------------------------------------- | ------------------------------------ | --------------------------------------------------------------------------------------------------- |
 | Segmentation Weights (MiT-B5 U-Net)     | `model_mit_b5_256_best_dice.pth`     | [Download Here](https://drive.google.com/file/d/1sytzRSEoSI6T2bKPOrl_iP-FoUmjcCju/view?usp=sharing) |
-| Grading Classifier Weights (Bottleneck) | `unet_bottleneck_classifier_new.pth` | [Download Here](https://drive.google.com/file/d/1R49zTOrS76ghkkcvgHflgW7Tm9S0nszW/view?usp=sharing) |
+| Grading Classifier Weights (Bottleneck) | `unet_bottleneck_classifier.pth` | [Download Here](https://drive.google.com/file/d/1R49zTOrS76ghkkcvgHflgW7Tm9S0nszW/view?usp=sharing) |
 
 ️ Place both files in the **root directory** for proper loading.
 
