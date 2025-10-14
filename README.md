@@ -13,10 +13,11 @@ The system performs two crucial tasks simultaneously:
    Classifies the severity of coronary artery blockage using a **Bottleneck Classifier** trained on deep feature representations from the segmentation encoder.
 
 🔗 **Live Demo:**
-👉 [Hugging Face Spaces App](https://rajaatif786-ai4stenosis.hf.space)
+👉 [Hugging Face Spaces App]([https://rajaatif786-ai4stenosis.hf.space](https://www.bioaml.com/angiography))
 
 ---
 
+![Model Architecture](output.png)
 ## 🎯 Architecture Details
 
 The core of this solution is a **two-module system** leveraging **transfer learning**.
